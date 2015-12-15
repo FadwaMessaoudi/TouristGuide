@@ -1,5 +1,6 @@
 language: android
 sudo: required
+script: ./gradle assembleDebug 
 android:
   components:
     # Uncomment the lines below if you want to
