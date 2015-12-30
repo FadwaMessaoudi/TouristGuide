@@ -6,15 +6,15 @@
 
 
     <SearchView
-        android:layout_width="200dp"
+        android:layout_width="fill_parent"
         android:layout_height="40dp"
         android:id="@+id/searchView"
         android:layout_gravity="center"
          />
 
     <ListView
-        android:layout_width="match_parent"
-        android:layout_height="438dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
         android:id="@+id/listviewperso"
         android:layout_weight="1.68" />
 
