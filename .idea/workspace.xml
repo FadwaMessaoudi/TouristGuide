@@ -16,10 +16,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9e3b3e-15b5-4212-bf99-350d3f66cbcb" name="Default" comment="Ajout de la classe de traitement de l'item gastronomy et l'ajout d'une classe qui permet de calculer les distances">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_gastronomy.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_gastronomy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="6d9e3b3e-15b5-4212-bf99-350d3f66cbcb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TouristGuide.iws" />
@@ -1988,7 +1985,13 @@
       <option name="project" value="LOCAL" />
       <updated>1451473923171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changement du manifest.xml">
+      <created>1451478398284</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1451478398284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2029,7 +2032,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ajout de la classe de traitement de l'item gastronomy et l'ajout d'une classe qui permet de calculer les distances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la classe de traitement de l'item gastronomy et l'ajout d'une classe qui permet de calculer les distances" />
+    <MESSAGE value="changement du manifest.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changement du manifest.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
