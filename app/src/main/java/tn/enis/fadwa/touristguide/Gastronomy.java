@@ -1,10 +1,13 @@
 package tn.enis.fadwa.touristguide;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
+/**
+ * Created by Noor on 22/01/2016.
+ */
 public class Gastronomy {
+
 	String nom;
 	double lat;
 	double lg;

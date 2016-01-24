@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">The City Guide</string>
-    <string name="w">Welcome</string>
+    <string name="app_name">TouristGuide</string>
+
+    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_liste_view">ListeView</string>
+    <string name="title_activity_details">Details</string>
 </resources>
